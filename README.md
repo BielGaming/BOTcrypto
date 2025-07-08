@@ -48,7 +48,7 @@ During installation, check `Add Python to PATH`.
 ### 2. Clone or Download This Project
 
 ```bash
-git clone https://github.com/yourusername/binance-top5-scanner.git
+git clone 
 cd binance-top5-scanner
 ````
 
